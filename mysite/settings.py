@@ -25,7 +25,7 @@ SECRET_KEY = 'k%*kf)#y+wsyvh_-lyr7!ryo6k=+9#g7rbi8^2351bd!j04y0v'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<AprilWay>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'aprilway.pythonanywhere.com']
 
 
 # Application definition
